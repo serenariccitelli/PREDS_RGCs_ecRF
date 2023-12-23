@@ -3,7 +3,7 @@ Code to generate figures for Riccitelli et al. "Retinal ganglion cells encode th
 
 # Overview
 Matlab Script files are made available for download. Example data can be found in the same repository. Data (RGCs spiking activity) was recorded as described in the manuscript. 
-Altogether, it should re-create the manuscript's figures: "Retinal ganglion cells encode the direction of motion outside their classical receptive field".
+Altogether, it should re-create the figures of the manuscript "Retinal ganglion cells encode the direction of motion outside their classical receptive field".
 
 # System Requirements
 This code requires only a standard computer. It is supported for macOS and Windows. 
